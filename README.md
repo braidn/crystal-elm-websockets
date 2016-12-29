@@ -1,31 +1,17 @@
 # sockets-elm
 
-TODO: Write a description here
+Playing with the capabilities of Elm/Crystal. 
+Currently rather jazzed about these two languages 
+and decided to kickstart and play with something small. 
 
-## Installation
+The [tutorial mentioned][1] mentioned assums the most basic knowledge of both technologies. 
 
+All development was done with Docker containers. Namely:
 
-TODO: Write installation instructions here
+1. Generating a [create-elm-app][2] using the [a wonderfully documented elm image][3]
+1. Generating a crystal app and using shards with [the official crystal image][4]
 
-
-## Usage
-
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[your-github-name]/sockets-elm/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
-
-## Contributors
-
-- [[your-github-name]](https://github.com/[your-github-name])  - creator, maintainer
+[1]: https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61#.ds2syrj2f
+[2]: https://github.com/halfzebra/create-elm-app
+[3]: https://hub.docker.com/r/codesimple/elm/
+[4]: https://hub.docker.com/r/crystallang/crystal/
