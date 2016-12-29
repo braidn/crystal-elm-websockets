@@ -1,0 +1,12 @@
+name: sockets-elm
+version: 0.1.0
+
+authors:
+  -  <>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+license: MIT
